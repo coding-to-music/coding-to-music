@@ -145,7 +145,39 @@ Lines 3 to 8 define when is triggered this action:
 - When triggered, this job will execute the steps one after the other.
 - For the rest of the file, read what I wrote next to `name`: to understand what is happening for each step.
 
-### Count visitors for your README.md, Issues, PRs in GitHub   
+Here is what was performed:
+```bash
+connorstom@penguin:~/aprojects/coding-to-music$ git pull origin master
+From github.com:coding-to-music/coding-to-music
+ * branch            master     -> FETCH_HEAD
+Already up to date!
+Merge made by the 'recursive' strategy.
+connorstom@penguin:~/aprojects/coding-to-music$ git push
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin master
+
+connorstom@penguin:~/aprojects/coding-to-music$ git push --set-upstream origin master
+Enumerating objects: 18, done.
+Counting objects: 100% (18/18), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (13/13), 6.90 KiB | 883.00 KiB/s, done.
+Total 13 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), completed with 2 local objects.
+To github.com:coding-to-music/coding-to-music.git
+   c1986ec..4caf76e  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+```
+## Summary
+### So far we have done:
+- index.js
+- main.mustache
+- puppeteer.service.js
+- main.yaml 
+
+# Count visitors for your README.md, Issues, PRs in GitHub   
 (Count visitors for your README.md, Issues, PRs in GitHub)[https://visitor-badge.glitch.me/#docs]  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
