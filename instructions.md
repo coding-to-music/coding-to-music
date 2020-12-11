@@ -6,6 +6,8 @@ From this medium article by Thomas Guibert
 
 (Link to his working repo)[https://github.com/thmsgbrt/thmsgbrt]
 
+GitHub recently released a feature that allows users to create a profile-level `README.md` file, that is displayed on your profile page, above repositories.
+
 - Create a new repo with the same name as your github name
 - Mine is coding-to-music/coding-to-music  
 - If you check the box to have a Readme supplied you can see it in your profile immediately  
@@ -66,7 +68,7 @@ generateReadMe();
 ```bash
 node index.js 
 ```
-in your terminal and it should generate a brand new README.md file in the same directory:  
+in your terminal and it should generate a brand new `README.md` file in the same directory:  
 ```bash
 // Generated content in README.md
 My name is Thomas and today is Wednesday, December 10.
@@ -74,6 +76,14 @@ My name is Thomas and today is Wednesday, December 10.
 
 ### Awesome! Commit and push everything. 
 ### Now, you can see that your README.md displayed on your Profile page has been updated. 
+
+<p align="center">...</p>
+
+## Generate your README automatically with Github Actions:  
+
+That’s great but you don’t want to be having to commit a new version of your `README.md` every day. Let’s automate this!  
+
+We are going to use GitHub Actions for that. If you have never used it before, this is going to be a good first project.  
 
 ### With Actions, you can create workflows to automate tasks. 
 Actions live in the same place as the rest of the code, in a special directory: ./.github/worflows .
@@ -87,16 +97,53 @@ $ cd ./workflows && touch main.yaml
 ```
 Fill it with this content:
 
-This Action has one Job, build , that runs on the specified machine, ubuntu-latest .
+```yaml
+name: README build
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository to Master branch
+        uses: actions/checkout@v1
+      - name: Setup NodeJs 13.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13.x'
+      - name: Cache dependencies and build outputs to improve workflow execution time.
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: node index.js
+      - name: Commit and Push new README.md to the repository
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+This Action has one Job, `build` , that runs on the specified machine, `ubuntu-latest` .  
 Lines 3 to 8 define when is triggered this action:
 ```bash
-On every push to the Master branch,
-Or on a specified schedule, here 6 hours.
+- On every push to the Master branch,
+- Or on a specified schedule, here 6 hours.
 ```
-- The scheduler allows you to trigger a workflow at a scheduled time. The cron syntax has five fields separated by a space, and each field represents a unit of time.
+- The scheduler allows you to trigger a workflow at a scheduled time. 
+- The cron syntax has five fields separated by a space, and each field represents a unit of time.
 - If you want to know more about it and set your own schedule, read the Scheduled Events documentation.
 - When triggered, this job will execute the steps one after the other.
-- For the rest of the file, read what I wrote next to name: to understand what is happening for each step.
+- For the rest of the file, read what I wrote next to `name`: to understand what is happening for each step.
 
 ### Count visitors for your README.md, Issues, PRs in GitHub   
 (Count visitors for your README.md, Issues, PRs in GitHub)[https://visitor-badge.glitch.me/#docs]  
@@ -106,7 +153,7 @@ Or on a specified schedule, here 6 hours.
 In which, the url parameter page_id is REQUIRED, please use the unique string to best represent your page.
 
 I recommend you to follow page_id rules below:
-1. For README.md file, use ${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge for example.
+1. For `README.md` file, use ${your.username}.${your.repo.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge for example.
 2. For Issue body, use ${your.username}.${your.repo.id}.issue.${issue.id}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge.issue.1 for example.  
 
 or any other markdown content, please give an unique string to distinguish
