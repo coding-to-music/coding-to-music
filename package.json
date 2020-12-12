@@ -20,6 +20,6 @@
     "dotenv": "^8.2.0",
     "mustache": "^4.1.0",
     "node-fetch": "^2.6.1",
-    "puppeteer": "^5.1.0"    
+    "puppeteer": "^5.5.0"
   }
 }

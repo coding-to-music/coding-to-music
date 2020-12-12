@@ -178,6 +178,71 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 - main.yaml 
 
 # Count visitors for your README.md, Issues, PRs in GitHub   
+```bash
+# you can see I needed to npm install dotenv
+connorstom@penguin:~/aprojects/coding-to-music$ node index.js
+node:internal/modules/cjs/loader:922
+  throw err;
+  ^
+
+Error: Cannot find module 'dotenv'
+Require stack:
+- /home/connorstom/aprojects/coding-to-music/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:919:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:763:27)
+    at Module.require (node:internal/modules/cjs/loader:991:19)
+    at require (node:internal/modules/cjs/helpers:92:18)
+    at Object.<anonymous> (/home/connorstom/aprojects/coding-to-music/index.js:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1102:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1131:10)
+    at Module.load (node:internal/modules/cjs/loader:967:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:807:14)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:76:12) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/connorstom/aprojects/coding-to-music/index.js' ]
+}
+connorstom@penguin:~/aprojects/coding-to-music$ npm install dotenv
+
+added 55 packages, and audited 56 packages in 43s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+connorstom@penguin:~/aprojects/coding-to-music$ npm install node-fetch
+
+up to date, audited 56 packages in 2s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+connorstom@penguin:~/aprojects/coding-to-music$ npm install puppeteer
+
+up to date, audited 56 packages in 2s
+
+8 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+```
+
+# run and see what else is missing
+```bash
+connorstom@penguin:~/aprojects/coding-to-music$ node index.js
+/home/connorstom/aprojects/coding-to-music/index.js:28
+      DATA.city_temperature = Math.round(r.main.temp);
+                                                ^
+
+TypeError: Cannot read property 'temp' of undefined
+    at /home/connorstom/aprojects/coding-to-music/index.js:28:49
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async setWeatherInformation (/home/connorstom/aprojects/coding-to-music/index.js:23:3)
+    at async action (/home/connorstom/aprojects/coding-to-music/index.js:63:3)
+```
+
+
+# Count visitors for your README.md, Issues, PRs in GitHub   
 (Count visitors for your README.md, Issues, PRs in GitHub)[https://visitor-badge.glitch.me/#docs]  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
