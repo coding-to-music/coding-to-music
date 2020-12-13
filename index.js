@@ -25,11 +25,15 @@ async function setWeatherInformation() {
   )
     .then(r => r.json())
     .then(r => {
-      DATA.city_temperature = Math.round(r.main.temp);
-      DATA.city_weather = r.weather[0].description;
-      DATA.city_weather_icon = r.weather[0].icon;
-      DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
-        hour: '2-digit',
+      // DATA.city_temperature = Math.round(r.main.temp);
+      // DATA.city_weather = r.weather[0].description;
+      // DATA.city_weather_icon = r.weather[0].icon;
+      // DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-GB', {
+        DATA.city_temperature = Math.round(77);
+        DATA.city_weather = 'sunny';
+        // DATA.city_weather_icon = r.weather[0].icon;
+        DATA.sun_rise = new Date('12/12/2020', {
+          hour: '2-digit',
         minute: '2-digit',
         timeZone: 'Europe/Stockholm',
       });
