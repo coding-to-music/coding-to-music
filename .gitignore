@@ -1,6 +1,7 @@
 package-lock.json
 node_modules
 yarn-error.log
+stockholm.jpeg
 
 .DS_Store
 node_modules
