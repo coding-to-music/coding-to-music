@@ -1,6 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/tree.svg" width="13"/> </p>
+<p>Welcome to my page! </br> 
+I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/tree.svg?raw=true" width="20"/> </p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -75,6 +77,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/puppeteer-examples?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/puppeteer-examples?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/coding-to-music/goColorsTests"><b>Using Colors in Go - golang Go Language</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <h3>My Main Latest Important Written Work</h3>
@@ -101,6 +110,8 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/coding-to-music" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ThomasConnors" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomasconnors44" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@connors.tom" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+
+<img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/go-run-main.png?raw=true" align="center" alt="Using Colors in Go" />
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
