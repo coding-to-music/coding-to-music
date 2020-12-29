@@ -1,6 +1,19 @@
 
 # How to Create a Self-Updating README.md for Your GitHub Profile  
 
+## Next Steps and Task List
+```java
+// Have time generated
+// Bring in Weather
+// Bring in phase of moon
+// Bring in Tide
+// Bring in tweets
+// Bring in Instagram
+// Bring in LinkedIn Posts
+// Bring in latest posts scraped somewhere
+// Bring in virus counts
+```
+
 From this medium article by Thomas Guibert  
 (How to Create a Self-Updating README.md for Your GitHub Profile)[https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91]  
 
@@ -13,7 +26,7 @@ GitHub recently released a feature that allows users to create a profile-level `
 - If you check the box to have a Readme supplied you can see it in your profile immediately  
 
 ## go to your project directory
-```bash
+```java
 git clone the repo
 cd coding-to-music
 npm init
@@ -21,7 +34,7 @@ npm i mustache
 ```
 
 ## code main.mustache  
-```bash
+```java
 // main.mustache 
 My name is {{name}} and today is {{date}}.
 ```
@@ -65,11 +78,11 @@ generateReadMe();
 ```
 
 ### With that, you can now run  
-```bash
+```java
 node index.js 
 ```
 in your terminal and it should generate a brand new `README.md` file in the same directory:  
-```bash
+```java
 // Generated content in README.md
 My name is Thomas and today is Wednesday, December 10.
 ```
@@ -87,12 +100,12 @@ We are going to use GitHub Actions for that. If you have never used it before, t
 
 ### With Actions, you can create workflows to automate tasks. 
 Actions live in the same place as the rest of the code, in a special directory: ./.github/worflows .
-```bash
+```java
 $ mkdir .github && cd .github && mkdir workflows
 ```   
 
 In this ./workflows folder, create a ./main.yaml file that will hold our Action.
-```bash
+```java
 $ cd ./workflows && touch main.yaml
 ```
 Fill it with this content:
@@ -135,7 +148,7 @@ jobs:
 
 This Action has one Job, `build` , that runs on the specified machine, `ubuntu-latest` .  
 Lines 3 to 8 define when is triggered this action:
-```bash
+```java
 - On every push to the Master branch,
 - Or on a specified schedule, here 6 hours.
 ```
@@ -146,7 +159,7 @@ Lines 3 to 8 define when is triggered this action:
 - For the rest of the file, read what I wrote next to `name`: to understand what is happening for each step.
 
 Here is what was performed:
-```bash
+```java
 connorstom@penguin:~/aprojects/coding-to-music$ git pull origin master
 From github.com:coding-to-music/coding-to-music
  * branch            master     -> FETCH_HEAD
@@ -178,7 +191,7 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 - main.yaml 
 
 # Count visitors for your README.md, Issues, PRs in GitHub   
-```bash
+```java
 # you can see I needed to npm install dotenv
 connorstom@penguin:~/aprojects/coding-to-music$ node index.js
 node:internal/modules/cjs/loader:922
@@ -228,7 +241,7 @@ found 0 vulnerabilities
 ```
 
 # run and see what else is missing
-```bash
+```java
 connorstom@penguin:~/aprojects/coding-to-music$ node index.js
 /home/connorstom/aprojects/coding-to-music/index.js:28
       DATA.city_temperature = Math.round(r.main.temp);
@@ -256,7 +269,7 @@ I recommend you to follow page_id rules below:
 or any other markdown content, please give an unique string to distinguish
 
 Mine:
-```bash
+```java
 const your.username  
 const your.repo.id
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
