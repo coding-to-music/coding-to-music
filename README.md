@@ -104,7 +104,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <li><a href="https://twitter.com/search?q=thomasconnors%20fracking"><b>Fracking</b></a><br/><i>Fracking is terrible for the groundwater</i></li>
   <li><a href="https://twitter.com/search?q=thomasconnors%20climate%20change"><b>headline</b></a><br/><i>subhead</i></li>
 </ul>
-<h3>Welcome to <img src="https://image.flaticon.com/icons/svg/197/197564.svg" width="13"/> Boston!</h3>
+<h3>Welcome to <img src="https://github.com/coding-to-music/coding-to-music/blob/master/tree.svg?raw=true" width="20"/> Boston! <img src="https://github.com/coding-to-music/coding-to-music/blob/master/tree.svg?raw=true" width="20"/></h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
 <h3>Where to find me</h3>
