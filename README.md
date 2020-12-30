@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p>Welcome to my page! </br> 
-I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/tree.svg?raw=true" width="20"/> </p>
+I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> </p>
 
 <h3>Things I code with</h3>
 <p>
@@ -104,35 +104,42 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <li><a href="https://twitter.com/search?q=thomasconnors%20fracking"><b>Fracking</b></a><br/><i>Fracking is terrible for the groundwater</i></li>
   <li><a href="https://twitter.com/search?q=thomasconnors%20climate%20change"><b>headline</b></a><br/><i>subhead</i></li>
 </ul>
-<h3>Welcome to <img src="https://github.com/coding-to-music/coding-to-music/blob/master/tree.svg?raw=true" width="20"/> Boston! <img src="https://github.com/coding-to-music/coding-to-music/blob/master/tree.svg?raw=true" width="20"/></h3>
+<h3>Welcome to <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> Boston! <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/></h3>
 <p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> °C, <i></i></b></br>Today, the sun rises at <b></b> and sets at <b></b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/coding-to-music" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ThomasConnors" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomasconnors44" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@connors.tom" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/2020_october_this_is_what_I_am_working_on.png?raw=true" align="center" alt="2020 october this is what I am working on" />
-
+</b>
+<p></p>
+<h3>This is what I am working on</h3>
+<img width="600px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/2020_october_this_is_what_I_am_working_on.png?raw=true" align="center" alt="2020 october this is what I am working on" />
+</b>
+<p></p>
+<h3>Examples of using Color</h3>
 <img width="600px" src="https://github.com/coding-to-music/goColorsTests/blob/main/go-run-main.png?raw=true" align="center" alt="Using Colors in Go" />
+</b>
+<p></p>
+<h3>Next Steps for this page</h3>
 
-```java
-// done -- Have time generated
-// Bring in Instagram
-// bring in Sunrise, Sunset, chart of day window-size compared to full year
-// Bring in Weather
-
-// Bring in historical weather range, and how today compares
-// Bring in phase of moon
-// Bring in Tides
-// Bring in tweets
-// Bring in LinkedIn Posts
-// Bring in latest posts scraped somewhere
-// Bring in virus counts
-// This day in history, famous events or birthdays
+```java   
+// done -- Have generated-time displayed   
+// Bring in Instagram  
+// bring in Sunrise, Sunset, chart of day window-size compared to full year  
+// Bring in Weather  
+  
+// Bring in historical weather range, and how today compares  
+// Bring in phase of moon  
+// Bring in Tides  
+// Bring in Tweets  
+// Bring in LinkedIn Posts  
+// Bring in latest posts scraped somewhere  
+// Bring in virus counts  
+// This day in history, famous events or birthdays  
 ```
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Tuesday, December 29, 10:44 PM EST<br />
+</br>Last refresh: Tuesday, December 29, 11:43 PM EST<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
