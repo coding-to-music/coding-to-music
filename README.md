@@ -138,8 +138,30 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 // This day in history, famous events or birthdays  
 ```
 
+
+<h3>Here is a way to think of this page</h3>
+
+```java
+// Did you see this?   
+// Here is a way to think about how to use or create this page  
+// Generated every X minutes or hours,  
+// it's a page that you can use to build your own like daily newspaper,    
+// it can go get information to make you situationally aware,   
+// it's a dashboard to monitor any data sources,   
+// whatever you want to monitor   
+```
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/coding-to-music"><b>This page - auto generated with data from any source</b></a></td>
+    </tr>
+  </tbody>
+</table>
+
+
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Tuesday, December 29, 11:43 PM EST<br />
+</br>Last refresh: Wednesday, December 30, 12:58 AM EST<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>

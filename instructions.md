@@ -77,6 +77,22 @@ function generateReadMe() {
 generateReadMe();
 ```
 
+This was the version I ended up putting in my own  
+```java
+let DATA = {
+  name: 'Tom',
+  refresh_date: new Date().toLocaleDateString('en-US', {
+    weekday: 'long',
+    month: 'long',
+    day: 'numeric',
+    hour: 'numeric',
+    minute: 'numeric',
+    timeZoneName: 'short',
+    timeZone: 'America/New_York',
+  }),
+};
+```
+
 ### With that, you can now run  
 ```java
 node index.js 
