@@ -67,7 +67,7 @@ let DATA = {
  async function setWeatherInformation() {
   console.log("In setWeatherInformation - just arrived ......");
   await fetch(
-    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+    `https://api.openweathermap.org/data/2.5/weather?q=stockholm&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=imperial`
   )
     .then(r => r.json())
     .then(r => {
@@ -78,12 +78,12 @@ let DATA = {
       DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString('en-US', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'America/New_York',
+        // timeZone: 'America/New_York',
       });
       DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString('en-US', {
         hour: '2-digit',
         minute: '2-digit',
-        timeZone: 'America/New_York',
+        // timeZone: 'America/New_York',
       });
       console.log("In setWeatherInformation - then section AFTER ......");
       console.log(JSON.stringify(DATA));
