@@ -124,7 +124,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 ```java   
 // done -- Have generated-time displayed   
-// Bring in Instagram  
+// done -- Bring in Instagram  
 // bring in Sunrise, Sunset, chart of day window-size compared to full year  
 // Bring in Weather  
   
@@ -150,30 +150,6 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 // it's a dashboard to monitor any data sources,   
 // whatever you want to monitor   
 ```
-```java
-// Did you see this?   
-# this is a comment using java text block
-```
-
-```bash
-// Did you see this?   
-# this is a comment using bash text block  
-```
-
-```java script
-// Did you see this?   
-# this is a comment using java script text block  
-```
-
-```javascript
-// Did you see this?   
-# this is a comment using javascript text block  
-```
-
-```python
-// Did you see this?   
-# this is a comment using python text block  
-```
 
 
 <table>
@@ -187,6 +163,6 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Thursday, December 31, 5:04 PM EST<br />
+</br>Last refresh: Thursday, December 31, 5:08 PM EST<br />
 <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
