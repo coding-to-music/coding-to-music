@@ -154,26 +154,31 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 ```java
 // Did you see this?   
 # this is a comment using java text block
+This is regular text
 ```
 
 ```bash
 // Did you see this?   
 # this is a comment using bash text block  
+This is regular text
 ```
 
 ```java script
 // Did you see this?   
 # this is a comment using java script text block  
+This is regular text
 ```
 
 ```javascript
 // Did you see this?   
 # this is a comment using javascript text block  
+This is regular text
 ```
 
 ```python
 // Did you see this?   
 # this is a comment using python text block  
+This is regular text
 ```
 
 <table>
