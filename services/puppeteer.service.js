@@ -1,3 +1,4 @@
+let msgString = '';
 const puppeteer = require('puppeteer');
 class PuppeteerService {
   browser;
@@ -30,7 +31,7 @@ class PuppeteerService {
    * @param {string} url
    */
   async goToPage(url) {
-    console.log("In goToPage - ......");
+    console.log("In puppeteerService - goToPage - ......");
     if (!this.browser) {
       await this.init();
     }
@@ -46,7 +47,7 @@ class PuppeteerService {
   }
 
   async close() {
-    console.log("In close - ......");
+    console.log("In puppeteerService - close - ......");
     await this.page.close();
     await this.browser.close();
   }
@@ -57,16 +58,32 @@ class PuppeteerService {
    * @param {number} n Qty of image to fetch
    */
   async getLatestInstagramPostsFromAccount(acc, n) {
-    console.log(`In getLatestInstagramPostsFromAccount - ...... ${acc}`);
+    console.log(`In puppeteerService - getLatestInstagramPostsFromAccount - ...... ${acc}`);
+    console.log('\x1b[36m%s\x1b[0m', 'I am cyan');  //cyan
+    console.log('\x1b[33m%s\x1b[0m', 'stringToMakeYellow');  //yellow
     const page = `https://www.picuki.com/profile/${acc}`;
     await this.goToPage(page);
 
     let previousHeight;
 
     try {
+      msgString = `In puppeteerService - getLatestInstagramPostsFromAccount - ...... About to Try for page.evaluate`;
+      console.log('\x1b[31m%s\x1b[0m', msgString);  //yellow
+
       previousHeight = await this.page.evaluate(`document.body.scrollHeight`);
+
+      msgString = `In puppeteerService - getLatestInstagramPostsFromAccount - ...... previousHeight ${previousHeight}`;
+      console.log('\x1b[31m%s\x1b[0m', msgString);  //yellow
+
       await this.page.evaluate(`window.scrollTo(0, document.body.scrollHeight)`);
-      await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+
+      msgString = `In puppeteerService - getLatestInstagramPostsFromAccount - ...... just did page.evaluate ScrollHeight`;
+      console.log('\x1b[31m%s\x1b[0m', msgString);  //yellow
+      // await this.page.waitForFunction(`document.body.scrollHeight > ${previousHeight}`);
+
+      msgString = `In puppeteerService - getLatestInstagramPostsFromAccount - ...... just did page.waitForFunction about to waitFor(1000)`;
+      console.log('\x1b[31m%s\x1b[0m', msgString);  //yellow
+
       await this.page.waitFor(1000);
 
       const nodes = await this.page.evaluate(() => {
