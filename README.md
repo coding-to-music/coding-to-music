@@ -119,7 +119,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 <img width="300" src="" /> </b>
 </p>
 <p>Above are the last 3 pictures posted on <a href="https://www.instagram.com/thomasconnors44" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> by @thomasconnors44</a>
-<br/>In Boston: Currently, the weather is: <b> 31°F, <i>clear sky</i></b>
+<br/>In Boston: Currently, the weather is: <b> 30°F, <i>clear sky</i></b>
 <br/>In Boston: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:22 PM</b>.</p>
 
 <img width="300" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;134545185_3778000978929004_5637257451773741856_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;P5tlW5I3bioAX-EISAp&amp;tp&#x3D;1&amp;oh&#x3D;9a1e6d14357b1ffa35a0780e35ae9ec0&amp;oe&#x3D;6018AD7B" /> </b>
@@ -127,7 +127,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 <img width="300" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;134412298_1049392572213331_4575751252567900827_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;-rpwF42A0rUAX-1gRHi&amp;tp&#x3D;1&amp;oh&#x3D;075d98cea58a377b68090df4e8e55686&amp;oe&#x3D;6017FB95" /> </b>
 </p>
 <p>Above are the last 3 pictures posted on <a href="https://www.instagram.com/nytimes" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> by @nytimes</a>
-<br/>In New York: Currently, the weather is: <b> 31°F, <i>clear sky</i></b>
+<br/>In New York: Currently, the weather is: <b> 30°F, <i>clear sky</i></b>
 <br/>In New York: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:22 PM</b>.</p>
 
 <h3>Where to find me</h3>
@@ -148,7 +148,8 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 ```java   
 // done -- Have generated-time displayed   
 // done -- Bring in Instagram  
-// Time of sunrise/sunset is incorrect
+// done -- Time of sunrise/sunset is incorrect
+// have a list of locations and get common data about each
 // See if can get location of the caller and get their time and weather
 // bring in Sunrise, Sunset, chart of day window-size compared to full year  
 // Bring in Weather  
@@ -188,6 +189,6 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Friday, January 1, 3:33 AM EST<br />
+</br>Last refresh: Friday, January 1, 3:53 AM EST<br />
 <a href="https://github.com/coding-to-music/coding-to-music/blob/master/instructions.md">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></p>
