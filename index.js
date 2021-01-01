@@ -96,11 +96,16 @@ async function setInstagramPosts() {
   //           'font-weight:bold; font-size:50px;color:red; ' +
   //           'text-shadow:3px 3px 0 red,6px 6px 0 orange,9px 9px 0 yellow, ' +
   //           '12px 12px 0 green,15px 15px 0 blue,18px 18px 0 indigo,21px 21px 0 violet');
-  console.log("In setInstagramPosts - ......Entering");
+  console.log("In setInstagramPosts - ......Entering - about to nytimes/");
   const instagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('thomasconnors44/', 3);
-  DATA.img1 = instagramImages[0];
-  DATA.img2 = instagramImages[1];
-  DATA.img3 = instagramImages[2];
+  DATA.Aimg1 = instagramImages[0];
+  DATA.Aimg2 = instagramImages[1];
+  DATA.Aimg3 = instagramImages[2];
+  console.log("In setInstagramPosts - ......Entering");
+  const BinstagramImages = await puppeteerService.getLatestInstagramPostsFromAccount('nytimes/', 3);
+  DATA.Bimg1 = BinstagramImages[0];
+  DATA.Bimg2 = BinstagramImages[1];
+  DATA.Bimg3 = BinstagramImages[2];
 
   console.log("In setInstagramPosts - then section AFTER ......");
   console.log(JSON.stringify(DATA));
