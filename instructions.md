@@ -19,6 +19,7 @@
 - [Instructions.md](#instructionsmd)
 - [Instructions - How to Create a Self-Updating README.md for Your GitHub Profile](#instructions---how-to-create-a-self-updating-readmemd-for-your-github-profile)
   - [Next Steps and Task List](#next-steps-and-task-list)
+- [Original Idea and description is in this Medium article by THomas Guibert](#original-idea-and-description-is-in-this-medium-article-by-thomas-guibert)
   - [go to your project directory](#go-to-your-project-directory)
   - [code main.mustache](#code-mainmustache)
   - [code index.js](#code-indexjs)
@@ -33,7 +34,9 @@
 - [run and see what else is missing](#run-and-see-what-else-is-missing)
 - [Count visitors for your README.md, Issues, PRs in GitHub](#count-visitors-for-your-readmemd-issues-prs-in-github-1)
 
-From this medium article by Thomas Guibert  
+# Original Idea and description is in this Medium article by THomas Guibert
+
+From this medium article by Thomas Guibert, French programmer living in Stockholm  
 (How to Create a Self-Updating README.md for Your GitHub Profile)[https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91]  
 
 (Link to his working repo)[https://github.com/thmsgbrt/thmsgbrt]
