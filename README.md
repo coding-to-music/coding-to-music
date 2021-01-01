@@ -2,13 +2,9 @@
 
 <p>Welcome to my page! </br> 
 I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> </p>
-<p></p>
-<h3>My New favorite chart that I think explains alot about this pandemic</h3>
-<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Using Colors in Go" />
-</b>
-<p></p>
 
 <h3>Things I code with</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -35,6 +31,13 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+<p></p>
+<h3>My New favorite chart that I think explains alot about this pandemic</h3>
+
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Using Colors in Go" />
+</b>
+
+<p></p>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -111,7 +114,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 </ul>
 <h3>Welcome to <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> Boston! <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/></h3>
 <p><img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;133962593_222350696113051_6803109912299759712_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;cDgyHZRwo_gAX-WsS1A&amp;tp&#x3D;1&amp;oh&#x3D;76c0f2d70187deffe1e275393c72b0f0&amp;oe&#x3D;6018B4CB" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;133817819_3842960072404177_6570649945432969494_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;101&amp;_nc_ohc&#x3D;5Tme3hsnbocAX9IfGcA&amp;tp&#x3D;1&amp;oh&#x3D;8c90e6550c707ef7e641023999e7ba9a&amp;oe&#x3D;6016CCF7" /> <img width="200" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;134261263_180425167102631_189615302138582237_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;111&amp;_nc_ohc&#x3D;dJLuF5TSMO0AX9otcDe&amp;tp&#x3D;1&amp;oh&#x3D;7cdf21f9d841c5bd858c7c21bb98b8e9&amp;oe&#x3D;60181366" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 35°F, <i>mist</i></b></br>Today, the sun rises at <b>02:43 AM</b> and sets at <b>08:58 AM</b>.</p>
+<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 35°F, <i>broken clouds</i></b></br>Today, the sun rises at <b>02:43 AM</b> and sets at <b>08:58 AM</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/coding-to-music" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ThomasConnors" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomasconnors44" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@connors.tom" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
@@ -170,6 +173,6 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Thursday, December 31, 11:17 PM EST<br />
-<a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+</br>Last refresh: Thursday, December 31, 11:34 PM EST<br />
+<a href="https://github.com/coding-to-music/coding-to-music/blob/master/instructions.md">Create your own here!</a></p>
+<p align="center"><img src="https://github.com/coding-to-music/coding-to-music/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></p>

@@ -1,5 +1,7 @@
 
-# How to Create a Self-Updating README.md for Your GitHub Profile  
+# Instructions.md
+
+# Instructions - How to Create a Self-Updating README.md for Your GitHub Profile  
 
 ## Next Steps and Task List
 ```java
@@ -13,6 +15,23 @@
 // Bring in latest posts scraped somewhere
 // Bring in virus counts
 ```
+
+- [Instructions.md](#instructionsmd)
+- [Instructions - How to Create a Self-Updating README.md for Your GitHub Profile](#instructions---how-to-create-a-self-updating-readmemd-for-your-github-profile)
+  - [Next Steps and Task List](#next-steps-and-task-list)
+  - [go to your project directory](#go-to-your-project-directory)
+  - [code main.mustache](#code-mainmustache)
+  - [code index.js](#code-indexjs)
+    - [With that, you can now run](#with-that-you-can-now-run)
+    - [Awesome! Commit and push everything.](#awesome-commit-and-push-everything)
+    - [Now, you can see that your README.md displayed on your Profile page has been updated.](#now-you-can-see-that-your-readmemd-displayed-on-your-profile-page-has-been-updated)
+  - [Generate your README automatically with Github Actions:](#generate-your-readme-automatically-with-github-actions)
+    - [With Actions, you can create workflows to automate tasks.](#with-actions-you-can-create-workflows-to-automate-tasks)
+  - [Summary](#summary)
+    - [So far we have done:](#so-far-we-have-done)
+- [Count visitors for your README.md, Issues, PRs in GitHub](#count-visitors-for-your-readmemd-issues-prs-in-github)
+- [run and see what else is missing](#run-and-see-what-else-is-missing)
+- [Count visitors for your README.md, Issues, PRs in GitHub](#count-visitors-for-your-readmemd-issues-prs-in-github-1)
 
 From this medium article by Thomas Guibert  
 (How to Create a Self-Updating README.md for Your GitHub Profile)[https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91]  
