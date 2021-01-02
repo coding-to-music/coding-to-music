@@ -115,22 +115,23 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 <h3>Welcome to <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> Boston! <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/></h3>
 <br>
 <p>Below are the last 3 pictures posted on <a href="https://www.instagram.com/thomasconnors44" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> by @thomasconnors44</a>
-<br>In Boston: Currently, the weather is: <b> 37°F, <i>overcast clouds</i></b>
+<br>In Boston: Currently, the weather is: <b> 40°F, <i>light rain</i></b>
 <br>In Boston: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:22 PM</b>.</p>
 <p>
-<img width="463" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e15&#x2F;11241696_1621610778080710_1598456720_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;OBly_wCNfAAAX8TWD_-&amp;tp&#x3D;1&amp;oh&#x3D;39be3c3bc9c5fe2f3f625fd5fe2c1412&amp;oe&#x3D;60177CFE" /> </b>
-<img width="463" src="https:&#x2F;&#x2F;scontent-lga3-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e15&#x2F;11240403_843482522356048_1435947216_n.jpg?_nc_ht&#x3D;scontent-lga3-2.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;CBcAhTQiJKUAX8zKDmD&amp;tp&#x3D;1&amp;oh&#x3D;d6531004df411772090d7127058890c7&amp;oe&#x3D;6019FC30" /> </b>
-<img width="463" src="" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;scontent-arn2-2.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;135026596_757318478206028_8737098652179887642_n.jpg?_nc_ht&#x3D;scontent-arn2-2.cdninstagram.com&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;KdAb3slyCCEAX8G5MBB&amp;tp&#x3D;1&amp;oh&#x3D;d5a00949d0112cc68c93323e7eaba2b4&amp;oe&#x3D;6018F695" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;scontent-arn2-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e15&#x2F;11241696_1621610778080710_1598456720_n.jpg?_nc_ht&#x3D;scontent-arn2-1.cdninstagram.com&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;2F_UahxZOWQAX9Ljsjw&amp;tp&#x3D;1&amp;oh&#x3D;fe64c5801ce87352e1846b82af44f4c0&amp;oe&#x3D;601B717E" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;scontent-arn2-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;e15&#x2F;11240403_843482522356048_1435947216_n.jpg?_nc_ht&#x3D;scontent-arn2-1.cdninstagram.com&amp;_nc_cat&#x3D;104&amp;_nc_ohc&#x3D;CBcAhTQiJKUAX8U2VYD&amp;tp&#x3D;1&amp;oh&#x3D;f14f3baa765b6171bfcb4f9736af6e32&amp;oe&#x3D;6019FC30" /> </b>
 </p>
 <br>
 <p>Below are the last 3 pictures posted on <a href="https://www.instagram.com/nytimes" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> by @nytimes</a>
-<br>In New York: Currently, the weather is: <b> 37°F, <i>overcast clouds</i></b>
+<br>In New York: Currently, the weather is: <b> 40°F, <i>light rain</i></b>
 <br>In New York: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:22 PM</b>.</p>
 
-<img width="463" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;134545185_3778000978929004_5637257451773741856_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;P5tlW5I3bioAX-EISAp&amp;tp&#x3D;1&amp;oh&#x3D;9a1e6d14357b1ffa35a0780e35ae9ec0&amp;oe&#x3D;6018AD7B" /> </b>
-<img width="463" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;133895341_1382869845383640_4193518260517146044_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;qJq5Qy2u2ecAX-JPFxJ&amp;tp&#x3D;1&amp;oh&#x3D;6499367c60786740a77cf4da1f739b02&amp;oe&#x3D;60195A16" /> </b>
-<img width="463" src="https:&#x2F;&#x2F;scontent-hel3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;134412298_1049392572213331_4575751252567900827_n.jpg?_nc_ht&#x3D;scontent-hel3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;-rpwF42A0rUAX-1gRHi&amp;tp&#x3D;1&amp;oh&#x3D;075d98cea58a377b68090df4e8e55686&amp;oe&#x3D;6017FB95" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.179.1440.1440a&#x2F;s640x640&#x2F;134451084_880437496093267_1788319537305335890_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;5v5UouM3yjcAX-3qBho&amp;tp&#x3D;1&amp;oh&#x3D;d59957c7c634016021dd4329cbae414b&amp;oe&#x3D;60187E77" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;134132317_221322062954150_8405193813081557479_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;AXTsDK_zrDkAX-zRVil&amp;tp&#x3D;1&amp;oh&#x3D;a78bae0a040d9ad6ac445ba30ec8d78d&amp;oe&#x3D;601B0B27" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.135.1080.1080a&#x2F;s640x640&#x2F;134979550_701910970513736_468750730419482615_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;bTryKx9d3osAX9V9NTd&amp;tp&#x3D;1&amp;oh&#x3D;3195b93d422c7a9416d2848cc054c747&amp;oe&#x3D;601A9E14" /> </b>
 </p>
+<div class="tweet" id="598859527291797504"></div>
 <br>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/coding-to-music" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/ThomasConnors" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomasconnors44" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@connors.tom" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -191,6 +192,6 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Friday, January 1, 1:42 PM EST<br />
+</br>Last refresh: Saturday, January 2, 3:50 AM EST<br />
 <a href="https://github.com/coding-to-music/coding-to-music/blob/master/instructions.md">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></p>
