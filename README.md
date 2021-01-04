@@ -115,8 +115,8 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 <h3>Welcome to <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> Boston! <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/></h3>
 <br>
 <p>Below are the last 3 pictures posted on <a href="https://www.instagram.com/thomasconnors44" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> by @thomasconnors44</a>
-<br>In Boston: Currently, the weather is: <b> 33°F, <i>light snow</i></b>
-<br>In Boston: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:23 PM</b>.</p>
+<br>In Boston: Currently, the weather is: <b> 33°F, <i>overcast clouds</i></b>
+<br>In Boston: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:24 PM</b>.</p>
 <p>
 <img width="463" src="https:&#x2F;&#x2F;instagram.flwo4-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c104.0.291.291a&#x2F;135026596_757318478206028_8737098652179887642_n.jpg?_nc_ht&#x3D;instagram.flwo4-2.fna.fbcdn.net&amp;_nc_cat&#x3D;108&amp;_nc_ohc&#x3D;KdAb3slyCCEAX_nYTR4&amp;tp&#x3D;1&amp;oh&#x3D;bde0937942bc83460b0499802a92bad4&amp;oe&#x3D;601BDB01" /> </b>
 <img width="463" src="https:&#x2F;&#x2F;instagram.flwo4-1.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e15&#x2F;11241696_1621610778080710_1598456720_n.jpg?_nc_ht&#x3D;instagram.flwo4-1.fna.fbcdn.net&amp;_nc_cat&#x3D;110&amp;_nc_ohc&#x3D;2F_UahxZOWQAX_1YleS&amp;tp&#x3D;1&amp;oh&#x3D;7e643f1e95666c163ebb964ae0da8391&amp;oe&#x3D;601B717E" /> </b>
@@ -124,12 +124,12 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 </p>
 <br>
 <p>Below are the last 3 pictures posted on <a href="https://www.instagram.com/nytimes" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> by @nytimes</a>
-<br>In New York: Currently, the weather is: <b> 33°F, <i>light snow</i></b>
-<br>In New York: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:23 PM</b>.</p>
+<br>In New York: Currently, the weather is: <b> 33°F, <i>overcast clouds</i></b>
+<br>In New York: Today, the sun rises at <b>07:13 AM</b> and sets at <b>04:24 PM</b>.</p>
 
-<img width="463" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;134990327_488952678749887_7612417683942285088_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;xLGTSXTy0Y4AX-JxqTe&amp;tp&#x3D;1&amp;oh&#x3D;6d2fd293436e6b896ddd5203ddedcf85&amp;oe&#x3D;601C555D" /> </b>
-<img width="463" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;c0.180.1440.1440a&#x2F;s640x640&#x2F;134393978_386072576016150_4628857851860318313_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;T1jtKObK2ycAX9nGoYO&amp;tp&#x3D;1&amp;oh&#x3D;89d6e3b4152aa34d3a12ae361e22227a&amp;oe&#x3D;6018F86E" /> </b>
-<img width="463" src="https:&#x2F;&#x2F;instagram.fiev22-2.fna.fbcdn.net&#x2F;v&#x2F;t51.2885-15&#x2F;e35&#x2F;c0.79.640.640a&#x2F;135300287_117213016902249_687798559847048755_n.jpg?_nc_ht&#x3D;instagram.fiev22-2.fna.fbcdn.net&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;LD5gjJEkg9IAX-AT8iW&amp;tp&#x3D;1&amp;oh&#x3D;e9cc5b03faa2e0e6b0ff3433d8f7d48e&amp;oe&#x3D;601CA8D4" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;scontent-lax3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;135397005_718390182382207_4346361349361496470_n.jpg?_nc_ht&#x3D;scontent-lax3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;P9DGOHNoatAAX9FX-Wb&amp;tp&#x3D;1&amp;oh&#x3D;fa40879113fb58c8747e6e399e095775&amp;oe&#x3D;601B6360" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;scontent-lax3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;135020252_746291539640435_2886553281290502716_n.jpg?_nc_ht&#x3D;scontent-lax3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;uhKoBPd0KtkAX-PNNA1&amp;tp&#x3D;1&amp;oh&#x3D;9e5430d20270abb02fcac7d0c09fea07&amp;oe&#x3D;601BD098" /> </b>
+<img width="463" src="https:&#x2F;&#x2F;scontent-lax3-1.cdninstagram.com&#x2F;v&#x2F;t51.2885-15&#x2F;sh0.08&#x2F;e35&#x2F;s640x640&#x2F;134746733_223294319371541_7603429795434201830_n.jpg?_nc_ht&#x3D;scontent-lax3-1.cdninstagram.com&amp;_nc_cat&#x3D;1&amp;_nc_ohc&#x3D;u2v58CKeW0wAX9FkSas&amp;tp&#x3D;1&amp;oh&#x3D;498b87c99b3751299ec860911d2e396b&amp;oe&#x3D;601DEFC2" /> </b>
 </p>
 <h3>Here is an embedded tweet</h3>
 
@@ -140,7 +140,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">REVEALED: London&#39;s Nightingale hospital at the ExCeL will have just 300 of its 4,000 beds in use when it reopens next week <a href="https://t.co/q8uTmz7oxa">https://t.co/q8uTmz7oxa</a></p>&mdash; Thomas Connors welcome to the animal farm you know (@ThomasConnors) <a href="https://twitter.com/ThomasConnors/status/1345834141112291329?ref_src=twsrc%5Etfw">January 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+<a class="twitter-timeline" data-width="250" data-height="450" data-theme="light" href="https://twitter.com/BradleyLJones?ref_src=twsrc%5Etfw">Tweets by BradleyLJones</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -212,6 +212,6 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
-</br>Last refresh: Sunday, January 3, 8:11 PM EST<br />
+</br>Last refresh: Monday, January 4, 2:20 AM EST<br />
 <a href="https://github.com/coding-to-music/coding-to-music/blob/master/instructions.md">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></p>
