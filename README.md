@@ -51,7 +51,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/coding-to-music/battlecode2021/Pathing_navigation_strategy.md"><b>MIT Battlecode 2021 - Navigation and Pathfinding Strategy</b></a></td>
+      <td><a href="https://github.com/coding-to-music/battlecode2021/blob/main/Pathing_navigation_strategy.md"><b>MIT Battlecode 2021 - Navigation and Pathfinding Strategy</b></a></td>
       {{! <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
