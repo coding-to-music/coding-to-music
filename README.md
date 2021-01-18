@@ -32,10 +32,23 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <p></p>
-<h3>My New favorite chart that I think explains alot about this pandemic</h3>
-
-<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Using Colors in Go" />
+<h3>My New favorite charts that I think explains alot about this pandemic</h3>
+## Flu vs. Covid 1916 to December 2020  
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Flu vs. Covid 1916 to December 2020" />
 </b>
+
+## Deaths per week USA 2015-2020   
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/deaths-per-week-USA-2015-2020.png?raw=true" align="center" alt="Deaths per week USA 2015-2020" />
+</b>
+
+## UK daily deaths 2015-2020   
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/UK-daily-deaths-2015-2020-large.jpeg?raw=true" align="center" alt="UK daily deaths 2015-2020" />
+</b>
+
+## CDC survival rates by age September 2020  
+<img width="600px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/CDC-survival-rates-by-age-September-2020.jpeg?raw=true" align="center" alt="deaths-per-week-USA-2015-2020" />
+</b>
+
 
 <p></p>
 <h3>Open source projects</h3>
