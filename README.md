@@ -4,6 +4,7 @@
 I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> </p>
 
 - [Flu vs. Covid 1916 to December 2020](#flu-vs-covid-1916-to-december-2020)
+- [WHO 2020 Global flu counts](#who-2020-global-flu-counts)
 - [Deaths per week USA 2015-2020](#deaths-per-week-usa-2015-2020)
 - [UK daily deaths 2015-2020](#uk-daily-deaths-2015-2020)
 - [CDC survival rates by age September 2020](#cdc-survival-rates-by-age-september-2020)
@@ -40,6 +41,10 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 <h3>My New favorite charts that I think explains alot about this pandemic</h3>
 ## Flu vs. Covid 1916 to December 2020  
 <img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Flu vs. Covid 1916 to December 2020" />
+</b>
+
+## WHO 2020 Global flu counts   
+<img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/WHO-2020-Global-flu-counts.jpeg?raw=true" align="center" alt="WHO 2020 Global flu counts" />
 </b>
 
 ## Deaths per week USA 2015-2020   
