@@ -3,6 +3,11 @@
 <p>Welcome to my page! </br> 
 I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> </p>
 
+- [Flu vs. Covid 1916 to December 2020](#flu-vs-covid-1916-to-december-2020)
+- [Deaths per week USA 2015-2020](#deaths-per-week-usa-2015-2020)
+- [UK daily deaths 2015-2020](#uk-daily-deaths-2015-2020)
+- [CDC survival rates by age September 2020](#cdc-survival-rates-by-age-september-2020)
+
 <h3>Things I code with</h3>
 
 <p>
