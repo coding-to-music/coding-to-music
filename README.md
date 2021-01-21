@@ -39,6 +39,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 </p>
 <p></p>
 <h3>My New favorite charts that I think explain alot about this pandemic</h3>
+
 ## Flu vs. Covid 1916 to December 2020  
 <img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Flu vs. Covid 1916 to December 2020" />
 </b>
