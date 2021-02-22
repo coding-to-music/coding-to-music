@@ -127,7 +127,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/All-knowledge/pandemic_overview"><b>All-Knowledge - My view of the Pandemic</b></a></td>
-      <td><a href=""> <b> </b></a></td>
+      <td><a href="http://all-knowledge.info"> <b> Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
