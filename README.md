@@ -34,6 +34,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Sphinx" src="https://img.shields.io/badge/-Sphinx-13aa52?style=flat-square&logo=sphinx&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
@@ -68,6 +69,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Site</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
@@ -77,13 +79,15 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <tbody>
     <tr>
       <td><a href="https://github.com/coding-to-music/battlecode2021/blob/main/Pathing_navigation_strategy.md"><b>MIT Battlecode 2021 - Navigation and Pathfinding Strategy</b></a></td>
-      {{! <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td> }}
     </tr>
     <tr>
       <td><a href="https://github.com/coding-to-music/battlecode2021"><b>MIT Battlecode 2021 - Everything you need to participate or win!!</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
@@ -92,12 +96,14 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     <tr>
       <td><a href="https://github.com/All-knowledge/pandemic_overview"><b>All-Knowledge - My view of the Pandemic</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/coding-to-music/reset-chromebook"><b>reset-chromebook - get a new chromebook and set up vscode, ssh keys, GitHub and Digitalocean</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
