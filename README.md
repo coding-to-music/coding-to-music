@@ -103,7 +103,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
 	  <tr>
       <td><a href="https://github.com/coding-to-music/reset-chromebook"><b>reset-chromebook - get a new chromebook and set up vscode, ssh keys, GitHub and Digitalocean</b></a></td>
-      <td>https://cnn.com</td>
+      <td>[GitHub.io](https://cnn.com)</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
