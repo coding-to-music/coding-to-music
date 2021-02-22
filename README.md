@@ -78,8 +78,40 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/coding-to-music/battlecode2021/blob/main/Pathing_navigation_strategy.md"><b>MIT Battlecode 2021 - Navigation and Pathfinding Strategy</b></a></td>
+      <td><a href="https://github.com/coding-to-music/coding-to-music.github.io"><b>coding-to-music.github.io</b></a></td>
+      <td><a href="https://coding-to-music.github.io/coding-to-music.github.io"> <b> Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/coding-to-music/demo-sphinx-extensions-for-DIRAC"><b>demo-sphinx-extensions-for-DIRAC</b></a></td>
+      <td><a href="https://coding-to-music.github.io/demo-sphinx-extensions-for-DIRAC"> <b> Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/demo-sphinx-extensions-for-DIRAC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/demo-sphinx-extensions-for-DIRAC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/demo-sphinx-extensions-for-DIRAC?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/demo-sphinx-extensions-for-DIRAC?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/coding-to-music/hello-world-directive-sphinx"><b>hello-world-directive-sphinx</b></a></td>
+      <td><a href="https://coding-to-music.github.io/hello-world-directive-sphinx"> <b> Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/hello-world-directive-sphinx?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/hello-world-directive-sphinx?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/hello-world-directive-sphinx?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/hello-world-directive-sphinx?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/coding-to-music/todo-sphinx-directive"><b>todo-sphinx-directive</b></a></td>
       <td><a href="https://coding-to-music.github.io/todo-sphinx-directive/"> <b> Site</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/todo-sphinx-directive?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/todo-sphinx-directive?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/todo-sphinx-directive?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/coding-to-music/todo-sphinx-directive?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/coding-to-music/battlecode2021/blob/main/Pathing_navigation_strategy.md"><b>MIT Battlecode 2021 - Navigation and Pathfinding Strategy</b></a></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
@@ -87,7 +119,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/coding-to-music/battlecode2021"><b>MIT Battlecode 2021 - Everything you need to participate or win!!</b></a></td>
-      <td><a href="https://coding-to-music.github.io/todo-sphinx-directive/"> <b> Site</b></a></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
@@ -95,7 +127,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/All-knowledge/pandemic_overview"><b>All-Knowledge - My view of the Pandemic</b></a></td>
-      <td><a href="https://coding-to-music.github.io/todo-sphinx-directive/"> <b> Site</b></a></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/All-knowledge/pandemic_overview?style=flat-square&labelColor=343b41"/></td>
@@ -103,7 +135,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
 	  <tr>
       <td><a href="https://github.com/coding-to-music/reset-chromebook"><b>reset-chromebook - get a new chromebook and set up vscode, ssh keys, GitHub and Digitalocean</b></a></td>
-      <td><a href="https://coding-to-music.github.io/todo-sphinx-directive/"> <b> Site</b></a></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/reset-chromebook?style=flat-square&labelColor=343b41"/></td>
@@ -111,7 +143,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
  	  <tr>
       <td><a href="https://github.com/coding-to-music/coding-to-music"><b>My awesome self-generating GitHub README every X hours</b></a></td>
-      <td><a href="https://coding-to-music.github.io/todo-sphinx-directive/"> <b> Site</b></a></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></td>
@@ -119,7 +151,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/coding-to-music/book-scraper"><b>Puppeteer Book Scraper examples</b></a></td>
-      <td><img alt="Site" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/book-scraper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/book-scraper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/book-scraper?style=flat-square&labelColor=343b41"/></td>
@@ -127,7 +159,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/coding-to-music/imdb-scraper"><b>Puppeteer IMDB movie scraper</b></a></td>
-      <td><img alt="Site" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/imdb-scraper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/imdb-scraper?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/imdb-scraper?style=flat-square&labelColor=343b41"/></td>
@@ -135,7 +167,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/coding-to-music/puppeteer-examples"><b>Puppeteer Scraper Tutorial</b></a></td>
-      <td><img alt="Site" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/puppeteer-examples?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/puppeteer-examples?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/puppeteer-examples?style=flat-square&labelColor=343b41"/></td>
@@ -143,7 +175,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
     <tr>
       <td><a href="https://github.com/coding-to-music/goColorsTests"><b>Using Colors in Go - golang Go Language</b></a></td>
-      <td><img alt="Site" src="https://img.shields.io/github/stars/coding-to-music/battlecode2021?style=flat-square&labelColor=343b41"/></td>
+      <td><a href=""> <b> </b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/goColorsTests?style=flat-square&labelColor=343b41"/></td>
