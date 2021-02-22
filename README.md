@@ -79,7 +79,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   <tbody>
     <tr>
       <td><a href="https://github.com/coding-to-music/coding-to-music.github.io"><b>coding-to-music.github.io</b></a></td>
-      <td><a href="https://coding-to-music.github.io/coding-to-music.github.io"> <b> Site</b></a></td>
+      <td><a href="https://coding-to-music.github.io"> <b> Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/coding-to-music/coding-to-music.github.io?style=flat-square&labelColor=343b41"/></td>
