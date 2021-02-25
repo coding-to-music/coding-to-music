@@ -78,7 +78,7 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/coding-to-music/sphinx-gallery.github.io"><b>sphinx-gallery</b></a></td>
+      <td><a href="https://github.com/coding-to-music/sphinx-gallery"><b>sphinx-gallery</b></a></td>
       <td><a href="https://coding-to-music.github.io/sphinx-gallery"> <b> Site</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/sphinx-gallery?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/sphinx-gallery?style=flat-square&labelColor=343b41"/></td>
