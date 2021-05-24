@@ -37,9 +37,9 @@
 # Original Idea and description is in this Medium article by Thomas Guibert
 
 From this medium article by Thomas Guibert, ullstack developer from Lorient, France, currently living in  Stockholm, Sweden.  
-(How to Create a Self-Updating README.md for Your GitHub Profile)[https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91]  
+[How to Create a Self-Updating README.md for Your GitHub Profile](https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
 
-(Link to his working repo)[https://github.com/thmsgbrt/thmsgbrt]
+[Link to his working repo](https://github.com/thmsgbrt/thmsgbrt)
 
 GitHub recently released a feature that allows users to create a profile-level `README.md` file, that is displayed on your profile page, above repositories.
 
