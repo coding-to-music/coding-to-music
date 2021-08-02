@@ -191,6 +191,11 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
     </tr>
   </tbody>
 </table>
+
+## 📊 Github Statistics
+
+![Juan's github stats](https://github-readme-stats.vercel.app/api?username=coding-to-music&theme=merko&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coding-to-music&langs_count=10&theme=merko&layout=compact)](https://github.com/coding-to-music)
+
 <h3>My Main Latest Important Written Work</h3>
 <ul>
   <li><a href="https://medium.com/@connors.tom/thought-experiment-summer-camp-for-all-rather-than-universal-basic-income-a1f2eb1df017"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Interesting September 2019 Essay published on Medium "Summer Camp for all rather than UBI"</b></a><br/><i>How to have a society of cooperation and sharing, we all share the jobs</i></li>
