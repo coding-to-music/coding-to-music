@@ -41,6 +41,12 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
 <p></p>
 <h3>My New favorite charts that I think explain alot about this pandemic</h3>
 
+![cases-vs-deaths-August-2021](https://github.com/coding-to-music/coding-to-music.github.io/blob/master/docs/source/assets/Vaccines/Death-Rates/2021-08-03-USA-covid-cases-vs-deaths-per-day.jpg?raw=true)
+
+
+August 3, 2021 - USA COVID 'Cases' per Day vs Deaths per Day - two years data 
+
+Source: ['Experts' Move The Goalposts, Declare Herd Immunity Threshold Now 90% Due To Delta - August 3, 2021](https://www.zerohedge.com/covid-19/experts-move-goalposts-declare-herd-immunity-threshold-now-90-due-delta)
 
 ## Flu vs. Covid 1916 to December 2020  
 <img width="800px" src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/Flu_Covid_1916_to_December_2020.jpg?raw=true" align="center" alt="Flu vs. Covid 1916 to December 2020" />
