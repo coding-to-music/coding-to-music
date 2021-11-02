@@ -1,6 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Welcome to my page! </br> 
+<p>Welcome to my page! </br>
+
+My Linktree Profile Page: https://linktree.coding-to-music.workers.dev/info
+
 I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src="https://github.com/coding-to-music/coding-to-music/blob/master/assets/tree.svg?raw=true" width="20"/> </p>
 
 - [Flu vs. Covid 1916 to December 2020](#flu-vs-covid-1916-to-december-2020)
