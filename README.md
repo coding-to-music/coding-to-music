@@ -326,3 +326,5 @@ Source: ['Experts' Move The Goalposts, Declare Herd Immunity Threshold Now 90% D
 </br>Last refresh: Monday, January 4, 2:20 AM EST<br />
 <a href="https://github.com/coding-to-music/coding-to-music/blob/master/instructions.md">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/coding-to-music/coding-to-music?style=flat-square&labelColor=343b41"/></p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=coding-to-music&label=Profile%20views&color=0e75b6&style=flat" alt="coding-to-music" /> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </p>
