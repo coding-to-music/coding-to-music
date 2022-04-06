@@ -165,6 +165,15 @@ I'm Tom Connors, data scientist and software developer in <b>Boston</b> <img src
   </tr>
 </table>
 
+### ☄️ Github Streaks:
+<p align="center">
+    <img alt="coding-to-music's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-to-music&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p>
+<img alt="coding-to-music's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coding-to-music&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
+
 <h3>My New favorite charts that I think explain alot about this pandemic</h3>
 
 ![cases-vs-deaths-August-2021](https://github.com/coding-to-music/coding-to-music.github.io/blob/master/docs/source/assets/Vaccines/Death-Rates/2021-08-03-USA-covid-cases-vs-deaths-per-day.jpg?raw=true)
@@ -442,15 +451,6 @@ Source: ['Experts' Move The Goalposts, Declare Herd Immunity Threshold Now 90% D
     </tr>
   </tbody>
 </table>
-
-### ☄️ Github Streaks:
-<p align="center">
-    <img alt="coding-to-music's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-to-music&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p>
-<img alt="coding-to-music's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=coding-to-music&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!
